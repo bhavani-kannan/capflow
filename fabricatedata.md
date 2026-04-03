@@ -225,7 +225,7 @@ Constraints:
 - Output only CSV
 
 
-## PROCESS EXCEPTIONS (OPTIONAL BUT STRONG)
+## PROCESS EXCEPTIONS
 
 Generate a CSV dataset named process_exceptions.
 
